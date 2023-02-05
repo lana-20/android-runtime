@@ -10,12 +10,20 @@ ART (Android RunTime) is the default runtime environment in Android devices, and
 
 Examples of how ART is used in Android include:
 
-1. Faster App Launch Times: ART compiles the application code into machine code, which results in faster app launch times compared to the older Dalvik runtime.
+### <img src="https://user-images.githubusercontent.com/70295997/216800709-bde8dc15-0ea9-49ba-891f-872d2cafb502.png" width=40> Improved Application Compatibility
+ART is designed to be more compatible with applications than its predecessor, Dalvik. This means that developers can create applications that run more smoothly and efficiently on Android devices, and that users are less likely to experience compatibility issues with their apps.
 
-2. Improved Battery Life: ART performs runtime optimizations that can result in improved battery life, as the device does not need to constantly interpret the application code.
+### <img src="https://user-images.githubusercontent.com/70295997/216800637-fc9323c3-18ac-4698-80a5-90c6a46cc67f.png" width=40> Improved Application Performance / Faster App Launch Times
+ART uses ahead-of-time (AOT) compilation, which compiles the application code into machine code when the app is installed. This results in faster app launches and improved overall performance compared to the previous runtime environment, Dalvik.
 
-3. Improved Application Performance: ART's compiler optimizes the application code for the specific device it is running on, resulting in improved performance compared to the older Dalvik runtime.
+### <img src="https://user-images.githubusercontent.com/70295997/216800759-4ccb0997-7ddd-4b7f-af54-9b2c788deed2.png" width=40> Improved Battery Life
+ART performs runtime optimizations that can result in improved battery life, as the device does not need to constantly interpret the application code. Also, ART includes a garbage collector that optimizes memory usage and reduces power consumption, which results in improved battery life. This is especially important for mobile devices, where battery life is a critical factor.
 
-4. Improved Garbage Collection: ART includes a more advanced garbage collection system, which helps to reduce memory usage and improve overall system performance.
+### <img src="https://user-images.githubusercontent.com/70295997/216800844-fb4d7411-fdf1-4a13-be75-3040cb890151.png" width=40> Improved Garbage Collection
+ART includes a more advanced garbage collection system, which helps to reduce memory usage and improve overall system performance.
 
-Overall, ART is an important part of the Android operating system, and its use results in a more optimized and efficient Android experience for users.
+### ![image](https://user-images.githubusercontent.com/70295997/216800890-ce4ff5fb-5a81-4c62-bb6a-a98b5b2a83e9.png)
+Smoother User Experience
+ART is optimized for low-memory devices, which results in a smoother and more responsive user experience. This is especially important for devices with limited resources, as ART helps to ensure that applications run smoothly and efficiently.
+
+Overall, ART is an important part of the Android operating system, as it provides the runtime environment for Android applications, and is responsible for improving performance, user experience, battery life, and application compatibility on Android devices.
