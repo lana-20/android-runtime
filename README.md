@@ -1,4 +1,4 @@
-# Android RunTime (ART)
+# <img src="https://user-images.githubusercontent.com/70295997/216801040-8901bacf-53ba-4e75-b986-61ba518a1d2a.png" width=40> Android RunTime (ART)
 
 __Dalvik__ was the original virtual machine (VM) used in Android to run applications written in Java. 
 Dalvik was designed to be memory-efficient and optimized for mobile devices, with features like just-in-time (JIT) compilation and garbage collection. 
@@ -22,8 +22,7 @@ ART performs runtime optimizations that can result in improved battery life, as 
 ### <img src="https://user-images.githubusercontent.com/70295997/216800844-fb4d7411-fdf1-4a13-be75-3040cb890151.png" width=40> Improved Garbage Collection
 ART includes a more advanced garbage collection system, which helps to reduce memory usage and improve overall system performance.
 
-### ![image](https://user-images.githubusercontent.com/70295997/216800890-ce4ff5fb-5a81-4c62-bb6a-a98b5b2a83e9.png)
-Smoother User Experience
+### <img src="https://user-images.githubusercontent.com/70295997/216800890-ce4ff5fb-5a81-4c62-bb6a-a98b5b2a83e9.png" width=40> Smoother User Experience
 ART is optimized for low-memory devices, which results in a smoother and more responsive user experience. This is especially important for devices with limited resources, as ART helps to ensure that applications run smoothly and efficiently.
 
-Overall, ART is an important part of the Android operating system, as it provides the runtime environment for Android applications, and is responsible for improving performance, user experience, battery life, and application compatibility on Android devices.
+<img src="https://user-images.githubusercontent.com/70295997/216801011-b6be3fe9-f2f7-4171-9282-4cb49e1a8722.png" width=40> Overall, ART is an important part of the Android operating system, as it provides the runtime environment for Android applications, and is responsible for improving performance, user experience, battery life, and application compatibility on Android devices.
